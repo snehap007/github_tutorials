@@ -1,2 +1,2 @@
-# github_tutorials
-this project is github practice
+# CryptoriyalAPI
+Cryptoriyal API
