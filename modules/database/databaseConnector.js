@@ -13,6 +13,7 @@ var con = mysql.createConnection({
 
 myFunction();
 
+// git commit branch 2
 function myFunction() {
     setTimeout(function(){ 
         con.connect(function (err) {
