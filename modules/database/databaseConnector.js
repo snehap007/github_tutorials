@@ -3,6 +3,8 @@ var path = require('path');
 var config = require(path.resolve('./', 'config'))
 logger = require(path.resolve('./logger'))
 
+
+// branch1 commit
 var con = mysql.createConnection({
     host: config.databaseHost,
     user: config.databaseUser,
